@@ -1,2 +1,1 @@
-# Temprature_Controlling_Box_WebApp
-IoT
+The box consists of two actuators and a thermometer in order to adjust the box temperature, a Arduino as a controller, and a raspberry pi as a WiFi module. While the desired temperature is set by the web application, the actuators will function and the box's temperature reaches the desired set-point}
